@@ -1,5 +1,7 @@
 # SEN 201 - Personal Portfolio Project
 
+https://github.com/wisssdorrmm/SEN-ASSIGNMENT-2.git
+
 ## Student Information
 - **Name:** IFIOK-OBONG UDUAK UDOUDO  
 - **Department:** Computer Science  
