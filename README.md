@@ -1,4 +1,4 @@
-# SEN 201 - Personal Portfolio Project
+# SEN 211 - Personal Portfolio Project
 
 https://github.com/wisssdorrmm/SEN-ASSIGNMENT-2.git
 
